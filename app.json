@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "myshopping-rn-ignit",
+    "slug": "myshopping-rn-ignit",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
