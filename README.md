@@ -1,4 +1,4 @@
-# myshopping-rn-ignit
+# Myshopping-rn-ignit
 Tutorial firebase com react native
 
 ## 🚀 Sobre o projeto
